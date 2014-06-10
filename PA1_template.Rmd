@@ -2,7 +2,7 @@
 
 
 ## Loading and preprocessing the data
-
+# load
 
 
 ## What is mean total number of steps taken per day?
