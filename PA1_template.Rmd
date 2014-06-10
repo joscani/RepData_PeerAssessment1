@@ -3,7 +3,7 @@
 
 ## Loading and preprocessing the data
 # load
-# dos_tres
+# dos_tres_
 
 ## What is mean total number of steps taken per day?
 
